@@ -1,0 +1,19 @@
+.masthead {
+    background-image: url("../img/bg.webp");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+
+.max-width {
+    max-width: 100%;
+}
+
+.text-bold {
+    font-weight: bold;
+    font-size: 17px;
+}
+
+.font-title {
+    font-size: 60px;
+}

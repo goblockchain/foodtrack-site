@@ -1,0 +1,12 @@
+{
+    "name": "david/plantiu-landing",
+    "authors": [
+        {
+            "name": "David William Balbino",
+            "email": "deeh.programmer@outlook.com"
+        }
+    ],
+    "require": {
+        "sendgrid/sendgrid": "~7"
+    }
+}
